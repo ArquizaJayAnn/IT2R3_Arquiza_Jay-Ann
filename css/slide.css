@@ -1,0 +1,92 @@
+
+body{
+;	background-image: url(../images/bg.jpg);
+	margin:0;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	padding: 0;
+
+}
+.texts h1{
+	border-width: 5px;
+	margin-top: 300px;
+	color:#000000;
+	text-align: center;
+	font-size: 80px;
+	border-width: 2px;
+	width: 950px;
+    height: 115px;
+    margin-left: 200px;
+	border-style: dashed;
+	border-color: black;
+
+	
+}
+img{
+	float: left;
+	width: 100px;
+	height: 90px;
+	margin-right: 120px;
+	margin-left: 7px;
+	margin-top:4px;
+}
+.navigation{
+	text-align: center;
+	width: 100%;
+	background: black;
+	margin-top:0;
+	height: 100px;
+}
+.banner img{
+	height: 400px;
+	width: 1300px;
+	margin-top: 15px;
+	margin-left:32px;
+	
+}
+.navigation a{
+	float: right;
+	display: inline-block;
+	margin-top:35px;
+	color: white;
+	text-decoration: none;
+	width: 150px;
+	padding: 0;
+	margin-right: 15px;
+}
+section{
+	margin-top:380px;
+}
+.par{
+	height: 50%;
+	width: 50%;
+	float: left;
+	
+
+}
+.par p{
+	font-size: 20px;
+	margin-left: 5px;
+	text-align: justify;
+
+}
+.section2{
+	width: 50%;
+	height: 50%;
+	float: right;
+
+}
+.section2 img{
+	width: 50%;
+	height: 50%;
+	margin-left: 200px;
+	margin-top: 10px;
+}
+hr{
+	border: double 5px;
+}
+.button a{
+	width: 50px;
+	height: 50px;
+	text-decoration: none;
+}
